@@ -1,0 +1,10 @@
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\PokemonTownUpdater.Form1.resources
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\PokemonTownUpdater.Properties.Resources.resources
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\PokemonTownUpdater.csproj.GenerateResource.cache
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\PokemonTownUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\PokemonTownUpdater.csprojAssemblyReference.cache
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\bin\Release\Updater.exe.config
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\bin\Release\Updater.exe
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\bin\Release\Updater.pdb
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\Updater.exe
+C:\Users\Toby\Documents\Visual Studio 2019\Solutions\PokemonTownUpdater\PokemonTownUpdater\obj\Release\Updater.pdb
